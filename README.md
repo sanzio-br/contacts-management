@@ -33,21 +33,16 @@ group.
 
 To run this project locally, follow these steps:
 
-**Clone the repository:  
-**bash  
-git clone https://github.com/yourusername/contacts-management.git
+1. **Clone the repository:**
 
-cd contacts-management
+   ```bash
+   git clone https://github.com/yourusername/contacts-management.git
+   cd contacts-management
 
-1.  
+2. **Clone the repository:**
 
-**Install dependencies:  
-**bash  
-composer install
-
-npm install # Optional, if using npm for frontend assets
-
-2.  
+   ```bash
+   composer install
 
 3.  **Setup your environment file:**
 
@@ -55,19 +50,15 @@ npm install # Optional, if using npm for frontend assets
 
     -   Configure your database connection in .env.
 
-**Run migrations and seeders:  
-**bash  
-php artisan migrate
+4.  **Run migrations and seeders:**
 
-php artisan db:seed # Optional, if you have seeders
+    ```bash
+    php artisan migrate
 
-4.  
+5.  **Start the Laravel development server:**
 
-**Start the Laravel development server:  
-**bash  
-php artisan serve
-
-5.  
+    ```bash
+    php artisan migrate
 
 6.  **Access the application:  
     > **Open your web browser and visit http://127.0.0.1:8000 to use the
