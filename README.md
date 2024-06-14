@@ -45,20 +45,26 @@ To run this project locally, follow these steps:
 3.  **Setup your environment file:**
 
     -   Rename .env.example to .env.
+        > cp .env.example .env
 
     -   Configure your database connection in .env.
 
-4.  **Run migrations and seeders:**
+4.  **Generate Application key**
+
+    ```bash
+    php artisan key:generate
+
+5.  **Run migrations and seeders:**
 
     ```bash
     php artisan migrate
 
-5.  **Start the Laravel development server:**
+6.  **Start the Laravel development server:**
 
     ```bash
-    php artisan migrate
+    php artisan serve
 
-6.  **Access the application:  
+7.  **Access the application:  
     > **Open your web browser and visit http://127.0.0.1:8000 to use the
     > application.
 
