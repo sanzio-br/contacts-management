@@ -23,11 +23,9 @@ group.
 
 -   **Laravel:** Backend framework used for building the application.
 
--   **MySQL:** Database management system used for storing contacts and
-    > groups.
+-   **MySQL:** Database management system used for storing contacts and groups.
 
--   **Bootstrap:** Frontend framework for styling and user interface
-    > components.
+-   **Bootstrap:** Frontend framework for styling and user interface components.
 
 ## **Setup Instructions**
 
@@ -86,7 +84,3 @@ To run this project locally, follow these steps:
 Contributions are welcome! If you find any issues or have suggestions
 for improvements, please create an issue or submit a pull request.
 
-## **License**
-
-This project is licensed under the MIT License. See the LICENSE file for
-details.
