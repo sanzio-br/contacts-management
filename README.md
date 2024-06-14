@@ -72,18 +72,15 @@ To run this project locally, follow these steps:
 
 -   **Managing Contacts:**
 
-    -   Navigate to the Contacts section to add, edit, delete, or view
-        > contacts.
+    -   Navigate to the Contacts section to add, edit, delete, or view contacts.
 
     -   Contacts can be assigned to groups or left ungrouped.
 
 -   **Managing Groups:**
 
-    -   Navigate to the Groups section to create, edit, delete, or view
-        > groups.
+    -   Navigate to the Groups section to create, edit, delete, or view groups.
 
-    -   View contacts belonging to each group and manage them
-        > accordingly.
+    -   View contacts belonging to each group and manage them accordingly.
 
 ## **Contributing**
 
