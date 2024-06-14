@@ -65,8 +65,7 @@ To run this project locally, follow these steps:
     php artisan serve
 
 7.  **Access the application:  
-    > **Open your web browser and visit http://127.0.0.1:8000 to use the
-    > application.
+    > Open your web browser and visit http://127.0.0.1:8000 to use the application.
 
 ## **Usage**
 
